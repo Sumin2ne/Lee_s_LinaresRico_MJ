@@ -1,6 +1,6 @@
 ![oops, image not found](img/question_mark.png "Question Mark")
 
-# Interesting Disscussion - Apartment vs House
+# Interesting Discussion - Apartment vs House
 
 In this awesome discussion we will argue about our accomodation preferences.
 
