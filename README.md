@@ -11,7 +11,12 @@ Houses are usually bigger than apartments. Houses have more space. Usually house
 
 ![oops, image not found](img/awesome_house.jpeg "House Image")
 
+## Apartment is better! -Sumin Lee
 
+I prefer living in an apartment than living in a house. 
+It is becouse if I live in a house there are some stuff like housekeeping and gardening for maintating good condition of house. But if I live an apartment I don't need to work for my house.
+
+![oops, image not found](img/amazing_apartment.jpg "House Image")
 ## Contributing
 
 1. Fork it!
