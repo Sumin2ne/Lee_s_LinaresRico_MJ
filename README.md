@@ -4,13 +4,6 @@
 
 In this awesome discussion we will argue about our accomodation preferences.
 
-## House is better! - Maria Jose Linares Rico
-
-In my opinion, living on a house is better than an apartment.
-Houses are usually bigger than apartments. Houses have more space. Usually houses have a big backyard and a big frontyard. That's why I think houses are better!
-
-![oops, image not found](img/awesome_house.jpeg "House Image")
-
 ## Apartment is better! - Sumin Lee
 
 I prefer living in an apartment than living in a house. 
