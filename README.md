@@ -9,7 +9,7 @@ In this awesome discussion we will argue about our accomodation preferences.
 I prefer living in an apartment than living in a house. 
 It is becouse if I live in a house there are some stuff like housekeeping and gardening for maintating good condition of house. But if I live an apartment I don't need to work for my house.
 
-![oops, image not found](img/amazing_apartment.jpg "House Image")
+![oops, image not found](img/amazing_apartment.jpg "House Image"0
 ## Contributing
 
 1. Fork it!
